@@ -1,0 +1,16 @@
+python-dotenv==1.0.0
+fastapi
+uvicorn
+python-multipart
+requests
+httpx
+pydantic
+azure-cosmos
+azure-identity
+cryptography==43.0.3
+python-docx
+pytest
+pytest-cov
+
+# Adicionado na revisão do portfólio (importado pelo código)
+fpdf2

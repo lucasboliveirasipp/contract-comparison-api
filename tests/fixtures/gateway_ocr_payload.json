@@ -1,0 +1,24 @@
+{
+  "workflow_configuration_code": "WF_TESTEOCR",
+  "input_collection": {
+    "input_properties": [
+      {
+        "workflow_step_order": 0,
+        "workflow_step_properties": [
+          {
+            "full_path": "files_id",
+            "actual_value": ["00000000-0000-0000-0000-000000000000"]
+          },
+          {
+            "full_path": "container",
+            "actual_value": "00000000-0000-0000-0000-000000000000"
+          },
+          {
+            "full_path": "input_text",
+            "actual_value": ""
+          }
+        ]
+      }
+    ]
+  }
+}
